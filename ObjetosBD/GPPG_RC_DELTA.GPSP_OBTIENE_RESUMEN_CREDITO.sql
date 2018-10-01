@@ -4,7 +4,8 @@
 -Historial de modificaciones:
 	-->Autor/Empresa: Leonardo Julián Ramirez/Eon
 	-->Version 1.0
-	-->Modificación: Esta versión se implemento en el segundo PI donde se liberó a producción con el producto minimo viable.
+	-->Modificación: 1
+    -->Objetivo: Esta versión se implemento en el segundo PI donde se liberó a producción con el producto minimo viable.
 */
 
 PROCEDURE  GPSP_OBTIENE_RESUMEN_CREDITO(
