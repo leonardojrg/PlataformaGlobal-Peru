@@ -1,3 +1,5 @@
+--Query para obtener el catálogo de entidades.
+
 SELECT DISTINCT
         MAX_LOTE.CVE_ENTIDAD
         ,EFU.DES_ENTIDAD
